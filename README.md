@@ -17,6 +17,7 @@ This project uses **Terraform** to provision a complete AWS infrastructure that 
 
 ##  Project Structure
 main.tf
+
 README.md
 ##  What You See in the Browser
 
